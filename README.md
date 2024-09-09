@@ -56,3 +56,5 @@ Head over to the `/prompts` directory to access a treasure trove of powerful pro
 [![Follow me on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/0xRizzler)
 <!-- ### Stay connected!
 🚀 Join the [PromptGPT Community](#) for more tips, tricks, and updates.-->
+# Awesome Content (Videos,Blogs or absolutely anything) About Prompting 
+[AI prompt engineering: A deep dive on Anthropic Official Youtube ](https://www.youtube.com/watch?v=T9aRN5JkmL8)
