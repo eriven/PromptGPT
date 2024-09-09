@@ -45,8 +45,9 @@ While there are hundreds of "prompt" tools out there, **PromptGPT** stands out b
 
 ## 📚 Sections You’ll Love
 1. **Basics**: A gentle intro to what prompting is and how it works.
-2. **Advanced Applications**: Learn about prompt hacking, security concerns, and advanced techniques like chain-of-thought prompting.
-3. **Applied Learning**: Dive into practical exercises where you can generate results, compare outcomes, and refine your skills.
+2. **Social Media Experts**: Check out the whole collection [here](https://github.com/eriven/PromptGPT/tree/main/Experts_on_SocialMedia)
+3. **Advanced Applications**: Learn about prompt hacking, security concerns, and advanced techniques like chain-of-thought prompting.
+4. **Applied Learning**: Dive into practical exercises where you can generate results, compare outcomes, and refine your skills.
 
 <!-- ## 🔥 Ready to Start?
 Head over to the `/prompts` directory to access a treasure trove of powerful prompts, interactive guides, and templates to start dominating the AI world. -->
