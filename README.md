@@ -58,3 +58,5 @@ Head over to the `/prompts` directory to access a treasure trove of powerful pro
 🚀 Join the [PromptGPT Community](#) for more tips, tricks, and updates.-->
 # Awesome Content (Videos,Blogs or absolutely anything) About Prompting 
 [AI prompt engineering: A deep dive on Anthropic Official Youtube ](https://www.youtube.com/watch?v=T9aRN5JkmL8)
+
+[OpenAI's Official Guide To Prompting(A must do!!)](https://platform.openai.com/docs/guides/prompt-engineering)
