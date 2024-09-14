@@ -62,3 +62,5 @@ Head over to the `/prompts` directory to access a treasure trove of powerful pro
 [OpenAI's Official Guide To Prompting(A must do!!)](https://platform.openai.com/docs/guides/prompt-engineering)
 
 [Anthropic's Official Guide To Prompting(Best for System Prompting!)](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+
+[Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
